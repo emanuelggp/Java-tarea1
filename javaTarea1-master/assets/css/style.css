@@ -1,0 +1,35 @@
+
+#lupa {
+    width: 20px;
+}
+
+.container {
+    background-color: rgb(255, 196, 69);
+}
+
+.paginas_imagen_secundarias{
+    text-align: center;
+}
+
+.img_secundaria {
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+a {
+    text-align: center;
+}
+
+/* .lupa2 {
+    width: 20px;
+}
+
+#lupa3 {
+    width: 50px;
+} */
+
+/* div img p h2 = 1
+
+.lupa .tomate = 10
+
+#lupa4 = 100 */
